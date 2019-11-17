@@ -39,7 +39,7 @@ that can estimate independent associations of biomarkers within high-dimensional
 data, teasing apart the effects of potential confounds and protecting against
 the unreliability introduced by small-sample inference. We also discuss
 a recently developed software library (the biotmle R package:
-bioconductor.org/packages/biotmle) as well as methods to circumvent the
+https://bioconductor.org/packages/biotmle) as well as methods to circumvent the
 statistical pitfalls of multiple comparisons.
 
 ---
